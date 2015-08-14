@@ -1,0 +1,589 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+BREAKER_PANEL_PORT::PROGRAM_PORT	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	32;"	d	line:32
+Breaker_Tripped	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	506;"	f	line:506	signature:(unsigned char id)
+Breaker_Tripped	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	106;"	p	line:106	signature:(unsigned char id)
+CLOSED::0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	66;"	d	line:66
+CheckTXIntFlag	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	156;"	f	line:156	file:	signature:(int port)
+CheckUartInts	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	331;"	f	line:331
+CheckUartInts	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	99;"	p	line:99	signature:(void)
+Clear_Memory	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_startup.c	15;"	p	line:15	file:	signature:(void)
+DATA_SIZE::30	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	23;"	d	line:23
+Default_Routine	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	203;"	f	line:203	signature:(void)
+Default_Routine	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	75;"	p	line:75	signature:(void)
+Delay100TCYx	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	49;"	p	line:49	signature:(PARAM_SCLASS unsigned char)
+Delay100TCYx	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	51;"	p	line:51	signature:(PARAM_SCLASS unsigned char)
+Delay10KTCYx	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	71;"	p	line:71	signature:(PARAM_SCLASS unsigned char)
+Delay10KTCYx	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	73;"	p	line:73	signature:(PARAM_SCLASS unsigned char)
+Delay10TCY	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	28;"	p	line:28	signature:(void)
+Delay10TCY::Delay10TCYx(1)	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	26;"	d	line:26
+Delay10TCYx	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	38;"	p	line:38	signature:(PARAM_SCLASS unsigned char)
+Delay10TCYx	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	40;"	p	line:40	signature:(PARAM_SCLASS unsigned char)
+Delay1KTCYx	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	60;"	p	line:60	signature:(PARAM_SCLASS unsigned char)
+Delay1KTCYx	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	62;"	p	line:62	signature:(PARAM_SCLASS unsigned char)
+Delay1TCY::Nop	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	16;"	d	line:16
+DeviceStatus	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	46;"	t	line:46	file:
+DeviceStatusPtr	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	48;"	t	line:48	file:
+DisableXmitInts	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	212;"	f	line:212	signature:(DeviceStatusPtr dcbPtr)
+DisplayBufr	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	102;"	f	line:102	signature:(unsigned char *bufr)
+DisplayBufr	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	77;"	p	line:77	signature:(unsigned char *bufr)
+EnableXmitInts	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	138;"	f	line:138	file:	signature:(DeviceStatusPtr dcbPtr)
+FALSE::0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	27;"	d	line:27
+FIRST_TIME	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	166;"	m	line:166
+Generate_Pwms	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	63;"	p	line:63	signature:(unsigned char pwm_13,unsigned char pwm_14, unsigned char pwm_15,unsigned char pwm_16)
+Generate_Pwms	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	67;"	p	line:67	signature:(unsigned char pwm_1,unsigned char pwm_2, unsigned char pwm_3,unsigned char pwm_4, unsigned char pwm_5,unsigned char pwm_6, unsigned char pwm_7,unsigned char pwm_8)
+Get_Analog_Value	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	201;"	f	line:201	signature:(unsigned char ADC_channel)
+Get_Analog_Value	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	81;"	p	line:81	signature:(unsigned char channel)
+Getdata	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	242;"	p	line:242	signature:(rx_data_ptr ptr)
+HIGH_INT_VECTOR::0x008	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	32;"	d	line:32
+HIGH_INT_VECTOR::0x808	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	36;"	d	line:36
+Handle_Panel_Data	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	264;"	f	line:264	signature:(unsigned char data)
+Hex_output	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	59;"	p	line:59	signature:(unsigned char temp)
+IFI_Initialization	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	205;"	p	line:205	signature:(void)
+IFI_PWM::0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	21;"	d	line:21
+INPUT::1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	84;"	d	line:84
+IN_CCP2::PORTEbits.RE7	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	272;"	d	line:272
+IN_CCP3::PORTGbits.RG0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	273;"	d	line:273
+IN_CCP4::PORTGbits.RG3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	274;"	d	line:274
+IN_CCP5::PORTGbits.RG4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	275;"	d	line:275
+IO_CCP2::TRISEbits.TRISE7	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	266;"	d	line:266
+IO_CCP3::TRISGbits.TRISG0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	267;"	d	line:267
+IO_CCP4::TRISGbits.TRISG3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	268;"	d	line:268
+IO_CCP5::TRISGbits.TRISG4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	269;"	d	line:269
+Initialize_Registers	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	197;"	p	line:197	signature:(void)
+Initialize_Serial_Comms	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	159;"	f	line:159	signature:(void)
+Initialize_Serial_Comms	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	79;"	p	line:79	signature:(void)
+Initialize_uart	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	84;"	f	line:84	file:	signature:(void)
+IntState	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	51;"	v	line:51	file:
+InterruptHandlerHigh	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	195;"	p	line:195	signature:(void)
+InterruptHandlerLow	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	81;"	p	line:81	signature:(void)
+InterruptHandlerLow	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines_fast.c	59;"	f	line:59
+InterruptVectorLow	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines_fast.c	35;"	f	line:35	signature:(void)
+LED_byte1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	120;"	m	line:120
+LED_byte2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	125;"	m	line:125
+LOW_INT_VECTOR::0x018	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	33;"	d	line:33
+LOW_INT_VECTOR::0x818	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	37;"	d	line:37
+MAX_RD_BUFR_SIZE::32	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	34;"	d	line:34
+MAX_WT_BUFR_SIZE::80	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	35;"	d	line:35
+NEW_SPI_DATA	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	164;"	m	line:164
+NewPanel	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	485;"	f	line:485	signature:(void)
+NewPanel	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	107;"	p	line:107	signature:(void)
+OPEN::1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	65;"	d	line:65
+OUTPUT::0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	85;"	d	line:85
+OUT_CCP2::LATEbits.LATE7	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	278;"	d	line:278
+OUT_CCP3::LATGbits.LATG0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	279;"	d	line:279
+OUT_CCP4::LATGbits.LATG3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	280;"	d	line:280
+OUT_CCP5::LATGbits.LATG4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	281;"	d	line:281
+OpenUSART::Open1USART	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	39;"	d	line:39
+OpenUSART::Open2USART	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	27;"	d	line:27
+PANEL_INPUT_RECORD	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	92;"	t	line:92
+PARAM_SCLASS::auto	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	19;"	d	line:19
+PARAM_SCLASS::static	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	21;"	d	line:21
+PRINTF_PORT::PROGRAM_PORT	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	31;"	d	line:31
+PRIORITY::0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	31;"	d	line:31	file:
+PROGRAM_PORT::0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	25;"	d	line:25
+PacketNum_Check	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	121;"	f	line:121	signature:(void)
+PacketNum_Check	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	78;"	p	line:78	signature:(void)
+PrintByte	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	64;"	f	line:64	signature:(unsigned char odata)
+PrintByte	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	75;"	p	line:75	signature:(unsigned char odata)
+PrintWord	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	82;"	f	line:82	signature:(unsigned int odata)
+PrintWord	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	76;"	p	line:76	signature:(unsigned int odata)
+Process_Autonomous_Code	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\autonomous.c	19;"	f	line:19	signature:(void)
+Process_Autonomous_Code	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	100;"	p	line:100	signature:(void)
+Process_Data_From_Local_IO	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	83;"	p	line:83	signature:(void)
+Process_Data_From_Local_IO	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines_fast.c	131;"	f	line:131	signature:(void)
+Process_Data_From_Master_uP	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	95;"	f	line:95	signature:(void)
+Process_Data_From_Master_uP	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	74;"	p	line:74	signature:(void)
+Process_Disabled_Code	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	122;"	f	line:122	signature:(void)
+Process_Disabled_Code	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	76;"	p	line:76	signature:(void)
+Process_TX	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	236;"	f	line:236	file:	signature:(DeviceStatusPtr dcbPtr)
+Putdata	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	229;"	p	line:229	signature:(tx_data_ptr ptr)
+Pwm1_green::txdata.LED_byte1.bitselect.bit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	229;"	d	line:229
+Pwm1_red::txdata.LED_byte1.bitselect.bit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	230;"	d	line:230
+Pwm2_green::txdata.LED_byte1.bitselect.bit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	231;"	d	line:231
+Pwm2_red::txdata.LED_byte1.bitselect.bit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	232;"	d	line:232
+RCREG::RCREG1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	37;"	d	line:37
+RCREG::RCREG1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	50;"	d	line:50
+RCREG::RCREG2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	25;"	d	line:25
+RCSTA::RCSTA1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	34;"	d	line:34
+RCSTA::RCSTA1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	49;"	d	line:49
+RCSTA::RCSTA2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	22;"	d	line:22
+RCSTAbits::RCSTA1bits	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	33;"	d	line:33
+RCSTAbits::RCSTA2bits	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	21;"	d	line:21
+RESET_VECTOR::0x000	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	31;"	d	line:31
+RESET_VECTOR::0x800	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	35;"	d	line:35
+RND::6	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_startup.c	25;"	d	line:25	file:
+RXINTE2::PIE3bits.RC2IE	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	43;"	d	line:43
+RXINTE::PIE1bits.RCIE	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	30;"	d	line:30
+RXINTE::PIE1bits.RCIE	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	38;"	d	line:38
+RXINTE::PIE3bits.RC2IE	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	18;"	d	line:18
+RXINTF2::PIR3bits.RC2IF	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	42;"	d	line:42
+RXINTF::PIR1bits.RCIF	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	29;"	d	line:29
+RXINTF::PIR1bits.RCIF	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	37;"	d	line:37
+RXINTF::PIR3bits.RC2IF	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	17;"	d	line:17
+RX_BUFFSELECT	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	168;"	m	line:168
+RX_SYNC1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	82;"	m	line:82
+RX_SYNC2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	83;"	m	line:83
+Relay1_green::txdata.LED_byte1.bitselect.bit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	234;"	d	line:234
+Relay1_red::txdata.LED_byte1.bitselect.bit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	233;"	d	line:233
+Relay2_green::txdata.LED_byte1.bitselect.bit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	236;"	d	line:236
+Relay2_red::txdata.LED_byte1.bitselect.bit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	235;"	d	line:235
+Reset_Control_Block	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	69;"	f	line:69	file:	signature:(DeviceStatusPtr dcbPtr)
+SERIAL_SPEED	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	52;"	t	line:52
+SERIAL_SPEED	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	62;"	t	line:62
+SIXTEEN_ANALOG::ADC_16ANA	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	219;"	d	line:219
+SPBRG::SPBRG1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	38;"	d	line:38
+SPBRG::SPBRG2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	26;"	d	line:26
+SPI_SEMAPHORE	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	169;"	m	line:169
+SPI_TRAILER_SIZE::2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	24;"	d	line:24
+SPI_XFER_SIZE::DATA_SIZE+SPI_TRAILER_SIZE	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	25;"	d	line:25
+Serial_Char_Callback	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	105;"	p	line:105	signature:(unsigned char data)
+Serial_Char_Callback	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines_fast.c	148;"	f	line:148	signature:(unsigned char data)
+Serial_Display_Char	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	461;"	f	line:461	signature:(unsigned char data)
+Serial_Display_Char	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	102;"	p	line:102	signature:(unsigned char data)
+Serial_Driver_Initialize	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	373;"	f	line:373	signature:(void)
+Serial_Driver_Initialize	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	100;"	p	line:100	signature:(void)
+Serial_Resume_Port	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	180;"	f	line:180	signature:(int port)
+Serial_Write	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	415;"	f	line:415	signature:(int port,rom const char *obufr,sword16 len)
+Serial_Write	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	104;"	p	line:104	signature:(int port,rom const char *obufr,sword16 len)
+Serial_Write_Bufr	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	390;"	f	line:390	signature:(int port,unsigned char *ch_out, sword16 len)
+Serial_Write_Bufr	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	103;"	p	line:103	signature:(int port,unsigned char *ch_out, sword16 len)
+Serial_Write_Char	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	436;"	f	line:436	signature:(int port,int ch_out)
+Serial_Write_Char	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	101;"	p	line:101	signature:(int port,int ch_out)
+Set_Number_of_Analog_Channels	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	184;"	f	line:184	signature:(unsigned char number_of_channels)
+Set_Number_of_Analog_Channels	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	80;"	p	line:80	signature:(unsigned char number_of_channels)
+Setup_PWM_Output_Type	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	257;"	p	line:257	signature:(int pwmSpec1,int pwmSpec2,int pwmSpec3,int pwmSpec4)
+Switch1_LED::txdata.LED_byte2.bitselect.bit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	238;"	d	line:238
+Switch2_LED::txdata.LED_byte2.bitselect.bit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	239;"	d	line:239
+Switch3_LED::txdata.LED_byte2.bitselect.bit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	240;"	d	line:240
+TOTAL_SERIAL_PORTS::2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	22;"	d	line:22
+TRUE::!FALSE	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	28;"	d	line:28
+TTL_PORT::1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	26;"	d	line:26
+TXINTE2::PIE3bits.TX2IE	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	45;"	d	line:45
+TXINTE::PIE1bits.TXIE	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	32;"	d	line:32
+TXINTE::PIE1bits.TXIE	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	40;"	d	line:40
+TXINTE::PIE3bits.TX2IE	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	20;"	d	line:20
+TXINTF2::PIR3bits.TX2IF	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	44;"	d	line:44
+TXINTF::PIR1bits.TXIF	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	31;"	d	line:31
+TXINTF::PIR1bits.TXIF	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	39;"	d	line:39
+TXINTF::PIR3bits.TX2IF	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	19;"	d	line:19
+TXREG::TXREG1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	36;"	d	line:36
+TXREG::TXREG1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	48;"	d	line:48
+TXREG::TXREG2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	24;"	d	line:24
+TXSTA::TXSTA1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	35;"	d	line:35
+TXSTA::TXSTA1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	47;"	d	line:47
+TXSTA::TXSTA2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	23;"	d	line:23
+TX_BUFFSELECT	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	167;"	m	line:167
+TX_UPDATED	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	165;"	m	line:165
+UNCHANGEABLE_DEFINITION_AREA::1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	14;"	d	line:14
+USER_CCP::1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	22;"	d	line:22
+User_Autonomous_Code	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	82;"	p	line:82	signature:(void)
+User_Autonomous_Code	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines_fast.c	92;"	f	line:92	signature:(void)
+User_Byte1::txdata.user_byte1.allbits	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	242;"	d	line:242
+User_Byte2::txdata.user_byte2.allbits	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	243;"	d	line:243
+User_Byte3::txdata.user_byte3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	244;"	d	line:244
+User_Byte4::txdata.user_byte4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	245;"	d	line:245
+User_Byte5::txdata.user_byte5	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	246;"	d	line:246
+User_Byte6::txdata.user_byte6	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	247;"	d	line:247
+User_Initialization	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	81;"	f	line:81	signature:(void)
+User_Initialization	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	73;"	p	line:73	signature:(void)
+User_Mode_byte::txdata.LED_byte1.data	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	227;"	d	line:227
+User_Proc_Is_Ready	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	216;"	p	line:216	signature:(void)
+Wait4TXEmpty	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	43;"	f	line:43	signature:(void)
+Wait4TXEmpty	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	74;"	p	line:74	signature:(void)
+__DELAYS_H	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\delays.h	2;"	d	line:2
+__ifi_aliases_h_	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	16;"	d	line:16
+__ifi_default_h_	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	11;"	d	line:11
+__ifi_utilities_h_	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	14;"	d	line:14
+__serialdrv_h_	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	11;"	d	line:11
+__user_program_h_	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	15;"	d	line:15
+_do_cinit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_startup.c	20;"	p	line:20	file:	signature:(void)
+_entry	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_startup.c	18;"	p	line:18	file:	signature:(void)
+_entry	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_startup.c	28;"	f	line:28	signature:(void)
+_startup	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_startup.c	19;"	p	line:19	file:	signature:(void)
+aBreakerWasTripped	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	55;"	v	line:55
+allbits	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	129;"	m	line:129
+allbits	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	134;"	m	line:134
+allbits	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	79;"	m	line:79
+allbits	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	84;"	m	line:84
+allbits	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	89;"	m	line:89
+allbits	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	94;"	m	line:94
+allbits	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	99;"	m	line:99
+allbits	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	87;"	m	line:87
+asdf	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\motors.c	25;"	l	line:25
+auto_disabled	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\autonomous.c	14;"	v	line:14
+auto_gap::p4_sw_aux2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	62;"	d	line:62
+auto_left::p4_sw_top	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	59;"	d	line:59
+auto_light::p4_sw_aux1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	61;"	d	line:61
+auto_right::p4_sw_trig	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	60;"	d	line:60
+auto_spin_strafe::p1_sw_trig	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	63;"	d	line:63
+autonomous	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	50;"	m	line:50
+autonomous_mode::rxdata.rc_mode_byte.mode.auton	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	312;"	d	line:312
+backup_voltage::rxdata.rc_backup_batt*15.64/25	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	301;"	d	line:301
+battery_voltage::rxdata.rc_main_batt*15.64/256	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	300;"	d	line:300
+baud_115	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	51;"	e	line:51
+baud_115	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	61;"	e	line:61
+baud_19	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	48;"	e	line:48
+baud_19	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	58;"	e	line:58
+baud_38	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	49;"	e	line:49
+baud_38	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	59;"	e	line:59
+baud_56	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.h	50;"	e	line:50
+baud_56	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	60;"	e	line:60
+bit0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	59;"	m	line:59
+bit0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	66;"	m	line:66
+bit1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	60;"	m	line:60
+bit1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	67;"	m	line:67
+bit2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	61;"	m	line:61
+bit2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	68;"	m	line:68
+bit2check	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	508;"	l	line:508
+bit3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	62;"	m	line:62
+bit3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	69;"	m	line:69
+bit4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	63;"	m	line:63
+bit4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	70;"	m	line:70
+bit5	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	64;"	m	line:64
+bit6	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	65;"	m	line:65
+bit7	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	66;"	m	line:66
+bitid	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	67;"	t	line:67
+bitselect	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	118;"	m	line:118
+bitselect	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	123;"	m	line:123
+bitselect	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	128;"	m	line:128
+bitselect	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	133;"	m	line:133
+bitselect	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	77;"	m	line:77
+bitselect	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	83;"	m	line:83
+bitselect	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	88;"	m	line:88
+bitselect	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	93;"	m	line:93
+bitselect	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	98;"	m	line:98
+bitselect	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	86;"	m	line:86
+bp2006	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	72;"	m	line:72
+bpFlags	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	52;"	v	line:52	file:
+break_dance	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\autonomous.c	98;"	f	line:98	signature:(void)
+break_dance	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	105;"	p	line:105	signature:(void)
+checksum	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	266;"	l	line:266
+claw_grab::p2_sw_aux1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	25;"	d	line:25
+claw_pneu_fwd::relay5_fwd	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	27;"	d	line:27
+claw_pneu_rev::relay5_rev	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	28;"	d	line:28
+claw_release::p2_sw_aux2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	26;"	d	line:26
+cmd_byte1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	142;"	m	line:142
+compressor	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	59;"	f	line:59	signature:(void)
+compressor	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	77;"	p	line:77	signature:(void)
+control	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	152;"	m	line:152
+control_wings	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	79;"	p	line:79	signature:(void)
+control_wings	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\wings.c	6;"	f	line:6	signature:(void)
+current_el	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	37;"	v	line:37
+current_mode	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	151;"	m	line:151
+current_sh	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	30;"	v	line:30
+custom_autonomous	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	101;"	p	line:101	signature:(void)
+data	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	119;"	m	line:119
+data	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	124;"	m	line:124
+data1Byte	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	88;"	m	line:88
+data2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	89;"	m	line:89
+data3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	90;"	m	line:90
+data4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	91;"	m	line:91
+dataIn	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	50;"	v	line:50	file:
+dcb	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	54;"	v	line:54	file:
+dcbPtr	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	392;"	l	line:392	file:
+dcbPtr	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	438;"	l	line:438	file:
+dead	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\autonomous.c	15;"	v	line:15
+dead_reckoning_autonomous	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	103;"	p	line:103	signature:(void)
+defense_autonomous	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	102;"	p	line:102	signature:(void)
+digital_compressor::rc_dig_in01	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	41;"	d	line:41
+digital_io_01::TRISBbits.TRISB2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	89;"	d	line:89
+digital_io_02::TRISBbits.TRISB3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	90;"	d	line:90
+digital_io_03::TRISBbits.TRISB4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	91;"	d	line:91
+digital_io_04::TRISBbits.TRISB5	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	92;"	d	line:92
+digital_io_05::TRISBbits.TRISB6	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	93;"	d	line:93
+digital_io_06::TRISBbits.TRISB7	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	94;"	d	line:94
+digital_io_07::TRISHbits.TRISH0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	95;"	d	line:95
+digital_io_08::TRISHbits.TRISH1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	96;"	d	line:96
+digital_io_09::TRISHbits.TRISH2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	97;"	d	line:97
+digital_io_10::TRISHbits.TRISH3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	98;"	d	line:98
+digital_io_11::TRISJbits.TRISJ1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	99;"	d	line:99
+digital_io_12::TRISJbits.TRISJ2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	100;"	d	line:100
+digital_io_13::TRISJbits.TRISJ3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	101;"	d	line:101
+digital_io_14::TRISCbits.TRISC0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	102;"	d	line:102
+digital_io_15::TRISJbits.TRISJ4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	103;"	d	line:103
+digital_io_16::TRISJbits.TRISJ5	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	104;"	d	line:104
+digital_io_17::TRISJbits.TRISJ6	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	105;"	d	line:105
+digital_io_18::TRISJbits.TRISJ7	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	106;"	d	line:106
+direction_el	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	34;"	v	line:34
+direction_sh	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	33;"	v	line:33
+disabled	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	51;"	m	line:51
+disabled_mode::rxdata.rc_mode_byte.mode.disab	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	313;"	d	line:313
+elbow::p2_y	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	21;"	d	line:21
+elbow_control	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	97;"	p	line:97	signature:(void)
+elbow_pot::Get_Analog_Value(rc_ana_in05)	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	31;"	d	line:31
+eldirection	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	40;"	v	line:40
+elmove	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	36;"	v	line:36
+error_code	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	149;"	m	line:149
+fdsa	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\motors.c	26;"	l	line:26
+first_level	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	91;"	p	line:91	signature:(void)
+flush	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	86;"	l	line:86
+i	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	97;"	l	line:97	file:
+ifi_analog_channels	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	32;"	v	line:32
+ifi_count	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	31;"	v	line:31
+ifi_last_packet1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	29;"	v	line:29
+ifi_packet_num1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	28;"	v	line:28
+init_wings	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	78;"	p	line:78	signature:(void)
+init_wings	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\wings.c	20;"	f	line:20	signature:(void)
+int_byte	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines_fast.c	61;"	l	line:61
+is_sliding_on_edge	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\autonomous.c	12;"	v	line:12
+is_tracking	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\camera.c	6;"	v	line:6
+kiddydrive	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\motors.c	62;"	f	line:62	signature:(signed int xinput, signed int yinput, signed int zinput)
+kiddydrive	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	86;"	p	line:86	signature:(signed int xinput, signed int yinput, signed int zinput)
+levelone::p3_sw_top	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	54;"	d	line:54
+levelthree::p3_sw_aux2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	56;"	d	line:56
+leveltwo::p3_sw_aux1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	55;"	d	line:55
+limit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	45;"	f	line:45	signature:(int input_value, int low_value, int high_value)
+limit	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	89;"	p	line:89	signature:(int input_value, int low_value, int high_value)
+lower_pneu_fwd::relay2_fwd	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	36;"	d	line:36
+lower_pneu_rev::relay2_rev	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	37;"	d	line:37
+main	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_startup.c	16;"	p	line:16	file:	signature:(void)
+main	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\main.c	31;"	f	line:31	signature:(void)
+mode	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	78;"	m	line:78
+modebits	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	52;"	t	line:52
+mot_lf::pwm01	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	44;"	d	line:44
+mot_lr::pwm03	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	46;"	d	line:46
+mot_rf::pwm02	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	45;"	d	line:45
+mot_rr::pwm04	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	47;"	d	line:47
+myRCREG	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	44;"	m	line:44	file:
+myTXREG	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	45;"	m	line:45	file:
+oi_analog01	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	101;"	m	line:101
+oi_analog02	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	101;"	m	line:101
+oi_analog03	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	101;"	m	line:101
+oi_analog04	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	101;"	m	line:101
+oi_analog05	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	102;"	m	line:102
+oi_analog06	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	102;"	m	line:102
+oi_analog07	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	102;"	m	line:102
+oi_analog08	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	102;"	m	line:102
+oi_analog09	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	103;"	m	line:103
+oi_analog10	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	103;"	m	line:103
+oi_analog11	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	103;"	m	line:103
+oi_analog12	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	103;"	m	line:103
+oi_analog13	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	104;"	m	line:104
+oi_analog14	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	104;"	m	line:104
+oi_analog15	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	104;"	m	line:104
+oi_analog16	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	104;"	m	line:104
+oi_swA_byte	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	85;"	m	line:85
+oi_swB_byte	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	90;"	m	line:90
+omnidrive	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\motors.c	21;"	f	line:21	signature:(signed int xinpt, signed int yinpt, signed int zinpt)
+omnidrive	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	85;"	p	line:85	signature:(signed int xinpt, signed int yinpt, signed int zinpt)
+p1_aux::rxdata.oi_analog13	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	42;"	d	line:42
+p1_sw_aux1::rxdata.oi_swA_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	58;"	d	line:58
+p1_sw_aux2::rxdata.oi_swA_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	59;"	d	line:59
+p1_sw_top::rxdata.oi_swA_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	57;"	d	line:57
+p1_sw_trig::rxdata.oi_swA_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	56;"	d	line:56
+p1_wheel::rxdata.oi_analog09	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	38;"	d	line:38
+p1_x::rxdata.oi_analog05	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	34;"	d	line:34
+p1_y::rxdata.oi_analog01	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	30;"	d	line:30
+p1_z	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\motors.c	24;"	l	line:24
+p2_aux::rxdata.oi_analog14	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	43;"	d	line:43
+p2_sw_aux1::rxdata.oi_swB_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	68;"	d	line:68
+p2_sw_aux2::rxdata.oi_swB_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	69;"	d	line:69
+p2_sw_top::rxdata.oi_swB_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	67;"	d	line:67
+p2_sw_trig::rxdata.oi_swB_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	66;"	d	line:66
+p2_wheel::rxdata.oi_analog10	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	39;"	d	line:39
+p2_x::rxdata.oi_analog06	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	35;"	d	line:35
+p2_y::rxdata.oi_analog02	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	31;"	d	line:31
+p3_aux::rxdata.oi_analog15	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	44;"	d	line:44
+p3_sw_aux1::rxdata.oi_swA_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	63;"	d	line:63
+p3_sw_aux2::rxdata.oi_swA_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	64;"	d	line:64
+p3_sw_top::rxdata.oi_swA_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	62;"	d	line:62
+p3_sw_trig::rxdata.oi_swA_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	61;"	d	line:61
+p3_wheel::rxdata.oi_analog11	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	40;"	d	line:40
+p3_x::rxdata.oi_analog07	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	36;"	d	line:36
+p3_y::rxdata.oi_analog03	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	32;"	d	line:32
+p4_aux::rxdata.oi_analog16	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	45;"	d	line:45
+p4_sw_aux1::rxdata.oi_swB_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	73;"	d	line:73
+p4_sw_aux2::rxdata.oi_swB_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	74;"	d	line:74
+p4_sw_top::rxdata.oi_swB_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	72;"	d	line:72
+p4_sw_trig::rxdata.oi_swB_byte.bitselect.b	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	71;"	d	line:71
+p4_wheel::rxdata.oi_analog12	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	41;"	d	line:41
+p4_x::rxdata.oi_analog08	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	37;"	d	line:37
+p4_y::rxdata.oi_analog04	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	33;"	d	line:33
+packed_struct	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	171;"	t	line:171
+packet_count	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\camera.c	7;"	v	line:7
+packet_num	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	74;"	m	line:74
+packetnum	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	150;"	m	line:150
+panel_bitid	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	74;"	t	line:74
+phase	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\autonomous.c	6;"	v	line:6
+pick_up	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	94;"	p	line:94	signature:(void)
+pick_up_button::p3_sw_trig	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	57;"	d	line:57
+portId	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	39;"	m	line:39	file:
+pos	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\autonomous.c	11;"	v	line:11
+pot_wrist::Get_Analog_Value(rc_ana_in06)	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	32;"	d	line:32
+prev_el	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	38;"	v	line:38
+prev_sh	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	31;"	v	line:31
+ptr	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	30;"	v	line:30
+pwm01::txdata.rc_pwm01	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	154;"	d	line:154
+pwm02::txdata.rc_pwm02	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	155;"	d	line:155
+pwm03::txdata.rc_pwm03	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	156;"	d	line:156
+pwm04::txdata.rc_pwm04	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	157;"	d	line:157
+pwm05::txdata.rc_pwm05	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	158;"	d	line:158
+pwm06::txdata.rc_pwm06	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	159;"	d	line:159
+pwm07::txdata.rc_pwm07	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	160;"	d	line:160
+pwm08::txdata.rc_pwm08	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	161;"	d	line:161
+pwm09::txdata.rc_pwm09	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	162;"	d	line:162
+pwm10::txdata.rc_pwm10	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	163;"	d	line:163
+pwm11::txdata.rc_pwm11	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	164;"	d	line:164
+pwm12::txdata.rc_pwm12	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	165;"	d	line:165
+pwm13::txdata.rc_pwm13	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	166;"	d	line:166
+pwm14::txdata.rc_pwm14	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	167;"	d	line:167
+pwm15::txdata.rc_pwm15	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	168;"	d	line:168
+pwm16::txdata.rc_pwm16	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	169;"	d	line:169
+pwm_mask	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	143;"	m	line:143
+rc_ana_in01::ADC_CH0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	202;"	d	line:202
+rc_ana_in02::ADC_CH1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	203;"	d	line:203
+rc_ana_in03::ADC_CH2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	204;"	d	line:204
+rc_ana_in04::ADC_CH3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	205;"	d	line:205
+rc_ana_in05::ADC_CH4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	206;"	d	line:206
+rc_ana_in06::ADC_CH5	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	207;"	d	line:207
+rc_ana_in07::ADC_CH6	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	208;"	d	line:208
+rc_ana_in08::ADC_CH7	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	209;"	d	line:209
+rc_ana_in09::ADC_CH8	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	210;"	d	line:210
+rc_ana_in10::ADC_CH9	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	211;"	d	line:211
+rc_ana_in11::ADC_CH10	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	212;"	d	line:212
+rc_ana_in12::ADC_CH11	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	213;"	d	line:213
+rc_ana_in13::ADC_CH12	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	214;"	d	line:214
+rc_ana_in14::ADC_CH13	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	215;"	d	line:215
+rc_ana_in15::ADC_CH14	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	216;"	d	line:216
+rc_ana_in16::ADC_CH15	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	217;"	d	line:217
+rc_backup_batt	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	105;"	m	line:105
+rc_dig_in01::PORTBbits.RB2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	109;"	d	line:109
+rc_dig_in02::PORTBbits.RB3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	110;"	d	line:110
+rc_dig_in03::PORTBbits.RB4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	111;"	d	line:111
+rc_dig_in04::PORTBbits.RB5	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	112;"	d	line:112
+rc_dig_in05::PORTBbits.RB6	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	113;"	d	line:113
+rc_dig_in06::PORTBbits.RB7	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	114;"	d	line:114
+rc_dig_in07::PORTHbits.RH0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	115;"	d	line:115
+rc_dig_in08::PORTHbits.RH1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	116;"	d	line:116
+rc_dig_in09::PORTHbits.RH2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	117;"	d	line:117
+rc_dig_in10::PORTHbits.RH3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	118;"	d	line:118
+rc_dig_in11::PORTJbits.RJ1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	119;"	d	line:119
+rc_dig_in12::PORTJbits.RJ2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	120;"	d	line:120
+rc_dig_in13::PORTJbits.RJ3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	121;"	d	line:121
+rc_dig_in14::PORTCbits.RC0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	122;"	d	line:122
+rc_dig_in15::PORTJbits.RJ4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	123;"	d	line:123
+rc_dig_in16::PORTJbits.RJ5	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	124;"	d	line:124
+rc_dig_in17::PORTJbits.RJ6	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	125;"	d	line:125
+rc_dig_in18::PORTJbits.RJ7	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	126;"	d	line:126
+rc_dig_out01::LATBbits.LATB2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	129;"	d	line:129
+rc_dig_out02::LATBbits.LATB3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	130;"	d	line:130
+rc_dig_out03::LATBbits.LATB4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	131;"	d	line:131
+rc_dig_out04::LATBbits.LATB5	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	132;"	d	line:132
+rc_dig_out05::LATBbits.LATB6	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	133;"	d	line:133
+rc_dig_out06::LATBbits.LATB7	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	134;"	d	line:134
+rc_dig_out07::LATHbits.LATH0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	135;"	d	line:135
+rc_dig_out08::LATHbits.LATH1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	136;"	d	line:136
+rc_dig_out09::LATHbits.LATH2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	137;"	d	line:137
+rc_dig_out10::LATHbits.LATH3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	138;"	d	line:138
+rc_dig_out11::LATJbits.LATJ1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	139;"	d	line:139
+rc_dig_out12::LATJbits.LATJ2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	140;"	d	line:140
+rc_dig_out13::LATJbits.LATJ3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	141;"	d	line:141
+rc_dig_out14::LATCbits.LATC0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	142;"	d	line:142
+rc_dig_out15::LATJbits.LATJ4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	143;"	d	line:143
+rc_dig_out16::LATJbits.LATJ5	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	144;"	d	line:144
+rc_dig_out17::LATJbits.LATJ6	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	145;"	d	line:145
+rc_dig_out18::LATJbits.LATJ7	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	146;"	d	line:146
+rc_main_batt	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	105;"	m	line:105
+rc_mode_byte	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	80;"	m	line:80
+rc_pwm01	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	136;"	m	line:136
+rc_pwm02	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	136;"	m	line:136
+rc_pwm03	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	136;"	m	line:136
+rc_pwm04	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	136;"	m	line:136
+rc_pwm05	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	137;"	m	line:137
+rc_pwm06	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	137;"	m	line:137
+rc_pwm07	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	137;"	m	line:137
+rc_pwm08	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	137;"	m	line:137
+rc_pwm09	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	138;"	m	line:138
+rc_pwm10	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	138;"	m	line:138
+rc_pwm11	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	138;"	m	line:138
+rc_pwm12	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	138;"	m	line:138
+rc_pwm13	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	139;"	m	line:139
+rc_pwm14	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	139;"	m	line:139
+rc_pwm15	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	139;"	m	line:139
+rc_pwm16	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	139;"	m	line:139
+rc_swA_byte	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	95;"	m	line:95
+rc_swB_byte	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	100;"	m	line:100
+relay1_fwd::LATEbits.LATE0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	178;"	d	line:178
+relay1_rev::LATDbits.LATD0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	179;"	d	line:179
+relay2_fwd::LATEbits.LATE1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	180;"	d	line:180
+relay2_rev::LATDbits.LATD1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	181;"	d	line:181
+relay3_fwd::LATEbits.LATE2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	182;"	d	line:182
+relay3_rev::LATDbits.LATD2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	183;"	d	line:183
+relay4_fwd::LATEbits.LATE3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	184;"	d	line:184
+relay4_rev::LATDbits.LATD3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	185;"	d	line:185
+relay5_fwd::LATEbits.LATE4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	186;"	d	line:186
+relay5_rev::LATDbits.LATD4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	187;"	d	line:187
+relay6_fwd::LATEbits.LATE5	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	188;"	d	line:188
+relay6_rev::LATDbits.LATD5	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	189;"	d	line:189
+relay7_fwd::LATEbits.LATE6	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	190;"	d	line:190
+relay7_rev::LATDbits.LATD6	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	191;"	d	line:191
+relay8_fwd::LATJbits.LATJ0	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	192;"	d	line:192
+relay8_rev::LATDbits.LATD7	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	193;"	d	line:193
+relay_compressor::relay1_fwd	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	42;"	d	line:42
+reserve	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	106;"	m	line:106
+result	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_utilities.c	203;"	l	line:203
+retn	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	509;"	l	line:509
+reverse_motor	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\motors.c	42;"	f	line:42	signature:(int motornum)
+reverse_motor	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	88;"	p	line:88	signature:(int motornum)
+rom2ramBufr	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	56;"	v	line:56	file:
+rx_data_ptr	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	109;"	t	line:109
+rx_data_record	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	107;"	t	line:107
+rxdata	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\main.c	20;"	v	line:20
+second_level	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	92;"	p	line:92	signature:(void)
+shmove	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	29;"	v	line:29
+shoulder::p2_x	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	20;"	d	line:20
+shoulder_control	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	96;"	p	line:96	signature:(void)
+shoulder_pot::Get_Analog_Value(rc_ana_in04)	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	30;"	d	line:30
+slider_control_on::p2_sw_trig	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	53;"	d	line:53
+statusflag	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\main.c	21;"	v	line:21
+sword16	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	14;"	t	line:14
+sword32	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	15;"	t	line:15
+sword8	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	13;"	t	line:13
+target_el	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	39;"	v	line:39
+target_mode	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\autonomous.c	13;"	v	line:13
+target_sh	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	32;"	v	line:32
+test	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	28;"	v	line:28
+third_level	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	93;"	p	line:93	signature:(void)
+timer	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\autonomous.c	8;"	v	line:8
+tripped	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	73;"	m	line:73
+tx_data_ptr	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	155;"	t	line:155
+tx_data_record	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	153;"	t	line:153
+txdata	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\main.c	19;"	v	line:19
+uint32	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	20;"	t	line:20
+upper_pneu_fwd::relay3_fwd	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	34;"	d	line:34
+upper_pneu_rev::relay3_rev	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	35;"	d	line:35
+usart2_RX::PORTGbits.RG2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	290;"	d	line:290
+usart2_TX::LATGbits.LATG1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	289;"	d	line:289
+user_byte1	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	130;"	m	line:130
+user_byte2	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	135;"	m	line:135
+user_byte3	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	145;"	m	line:145
+user_byte4	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	146;"	m	line:146
+user_byte5	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	147;"	m	line:147
+user_byte6	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	148;"	m	line:148
+user_cmd	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	141;"	m	line:141
+user_display	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	49;"	m	line:49
+user_display_mode::rxdata.rc_mode_byte.mode.user_	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_aliases.h	311;"	d	line:311
+uword16	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	18;"	t	line:18
+uword32	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	19;"	t	line:19
+uword8	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	17;"	t	line:17
+validChecksum	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.h	71;"	m	line:71
+warning_code	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\ifi_default.h	144;"	m	line:144
+wing_servo_one::pwm06	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	50;"	d	line:50
+wing_servo_two::pwm07	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	51;"	d	line:51
+wings::p2_sw_top	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	49;"	d	line:49
+wrist::p2_wheel	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	22;"	d	line:22
+wrist_control	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	98;"	p	line:98	signature:(void)
+wrist_motor::pwm05	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.h	39;"	d	line:39
+wrist_state	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	43;"	v	line:43
+wrist_tar	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_routines.c	42;"	v	line:42
+wtBufr	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	42;"	m	line:42	file:
+wtBufrIdx	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	43;"	m	line:43	file:
+wtCount	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	40;"	m	line:40	file:
+wtbufr	C:\Documents and Settings\Team 178\Desktop\2007 Code Vault\postseason arm\user_SerialDrv.c	41;"	m	line:41	file:
